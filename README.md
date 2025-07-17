@@ -1,4 +1,4 @@
-<img src="[https://lien-vers-ton-image.com/ban.jpg](https://github.com/lucie-belleguic/lucie-belleguic/blob/main/bani%C3%A8re%20linkedin.jpg)" alt="Bannière GitHub" width="100%" />
+<img src="https://raw.githubusercontent.com/lucie-belleguic/lucie-belleguic/main/bani%C3%A8re%20linkedin.jpg" alt="Bannière GitHub" width="100%" />
 
 # 👋 Bonjour et bienvenue sur mon profil GitHub !
 
