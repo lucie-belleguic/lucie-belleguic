@@ -67,7 +67,7 @@ Je recherche un **poste de Data Scientist** (ou éventuellement de **Data Analys
 
 💬 Je suis ouverte à toute opportunité ou discussion autour de la data, de l’IA ou de la formation technique.
 
-- ✉️ *[lucie_belleguic@hotmail.com]*  
+- ✉️ *[lucie.belleguic@ikmail.com]*  
 - 🌐 *[www.linkedin.com/in/lucie-belleguic-datascientist]*  
 - 📍 Basée en France – Mobilité possible
 
