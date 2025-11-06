@@ -12,7 +12,7 @@ Je poursuis actuellement un cursus d’**approfondissement MLPro** (Machine Lear
 
 ## 🎯 Objectif professionnel
 
-Je recherche un **poste de Data Scientist** (ou éventuellement de **Data Analyste**) dans une équipe passionnée, autour de problématiques concrètes et à fort enjeu.
+Je recherche un **poste de Data Scientist dans une équipe passionnée, autour de problématiques concrètes et à fort enjeu.
 
 ---
 
@@ -54,12 +54,13 @@ Je recherche un **poste de Data Scientist** (ou éventuellement de **Data Analys
 ---
 
 ## 👩‍🏫 Mon parcours hybride
-
+  
+- Formation continue avec **MLPro (Machine Learnia)** (depuis 2025)
+- Diplômée Ingénieure IA OpenClassrooms (avril 2025)
 - Diplôme d’ingénieure en mécanique et production industrielle
+
 - 4 ans d'expérience dans l'industrie en tant qu'ingénieure méthodes  
 - 10 ans d’expérience en tant qu’enseignante en mathématiques (CAPES)  
-- Diplômée Ingénieure IA OpenClassrooms (avril 2025)  
-- Formation continue avec **MLPro (Machine Learnia)** (2025-2026)
 
 ---
 
