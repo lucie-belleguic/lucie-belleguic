@@ -12,7 +12,7 @@ Je poursuis actuellement un cursus d’**approfondissement MLPro** (Machine Lear
 
 ## Objectif professionnel
 
-Je recherche un poste de *Data Scientist* dans une équipe passionnée, autour de problématiques concrètes et à fort enjeu.
+Je recherche un poste de **Data Scientist** dans une équipe passionnée, autour de problématiques concrètes et à fort enjeu.
 
 ---
 
@@ -42,7 +42,7 @@ Je recherche un poste de *Data Scientist* dans une équipe passionnée, autour d
 
 ---
 
-## 🧰 Stack & Compétences
+## Stack & Compétences
 
 **Langages :** Python, SQL, Bash  
 **ML / DL :** scikit-learn, TensorFlow, PyTorch, Keras, XGBoost, Transformers  
@@ -53,7 +53,7 @@ Je recherche un poste de *Data Scientist* dans une équipe passionnée, autour d
 
 ---
 
-## 👩‍🏫 Mon parcours hybride
+## Mon parcours hybride
   
 - Formation continue avec **MLPro (Machine Learnia)** (depuis 2025)
 - Diplômée Ingénieure IA OpenClassrooms (avril 2025)
@@ -64,13 +64,13 @@ Je recherche un poste de *Data Scientist* dans une équipe passionnée, autour d
 
 ---
 
-## 📬 Me contacter
+## Me contacter
 
-💬 Je suis ouverte à toute opportunité ou discussion autour de la data, de l’IA ou de la formation technique.
+Je suis ouverte à toute opportunité ou discussion autour de la data, de l’IA ou de la formation technique.
 
 - ✉️ *[lucie.belleguic@ikmail.com]*  
 - 🌐 *[www.linkedin.com/in/lucie-belleguic-datascientist]*  
-- 📍 Basée en France – Mobilité possible
+- 📍 Basée à Nantes / Angers – Mobilité possible
 
 ---
 
