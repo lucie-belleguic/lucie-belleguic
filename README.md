@@ -19,26 +19,25 @@ Je recherche un poste de **Data Scientist** dans une équipe passionnée, autour
 ## Projets réalisés
 
 ### 🔹 Modèle de scoring crédit  
-> Prédiction d’un défaut de remboursement du crédit par le client à l’aide d’un modèle supervisé optimisé sur fonction coût métier.
+> Prédiction d’un défaut de remboursement du crédit par le client à l’aide d’un modèle supervisé optimisé sur fonction coût métier.  
 → *Réduction de 30% du coût lié aux impayés*
 
 ### 🔹 Classification multimodale texte + image pour marketplace
 > Développement d’un moteur de classification automatique via une description texte ou une image à l’aide d’une méthode TF-IDF et
-d’un VGG16.
+d’un VGG16.  
 → Meilleure pertinence de la catégorisation des produits
 
 ### 🔹 Segmentation pour véhicule autonome  
 > Identification des éléments de l’image prise par caméra embarquée
-> Déploiement Streamlit, CI/CD Azure  
+> Déploiement Streamlit, CI/CD Azure    
 → *Pipeline temps réel robuste, gains de performance de 12 %*
 
 ### 🔹 Analyse de sentiments et déploiement d’un modèle IA  
-> Implémentation complète MLOps : tracking MLFlow, CI/CD (Pytest, FastAPI) et déploiement Cloud sur Azure WebApp.
+> Implémentation complète MLOps : tracking MLFlow, CI/CD (Pytest, FastAPI) et déploiement Cloud sur Azure WebApp.  
 → *Modèle d’analyse de sentiments accessible via Streamlit*
- 
-  
+   
 ### 🔹 Traitement d’images en environnement Big Data
-> Pipeline PySpark distribué pour le prétraitement massif et la diffusion de modèles. 
+> Pipeline PySpark distribué pour le prétraitement massif et la diffusion de modèles.   
 → *Architecture Cloud scalable et industrialisable déployée sur AWS*
 
 ---
