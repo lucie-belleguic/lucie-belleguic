@@ -14,6 +14,7 @@ Je poursuis actuellement un cursus d’**approfondissement MLPro** (Machine Lear
 
 Je recherche un poste de **Data Scientist** dans une équipe passionnée, autour de problématiques concrètes et à fort enjeu.
 
+
 ---
 
 ## Projets réalisés
