@@ -60,7 +60,7 @@ d’un VGG16.
 - Diplôme d’ingénieure en mécanique et production industrielle
 
 - 4 ans d'expérience dans l'industrie en tant qu'ingénieure méthodes  
-- 10 ans d’expérience en tant qu’enseignante en mathématiques (CAPES)  
+- 10 ans d’expérience en tant qu’enseignante en mathématiques
 
 ---
 
