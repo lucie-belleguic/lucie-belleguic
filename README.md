@@ -3,7 +3,7 @@
 # 👋 Bonjour et bienvenue sur mon profil GitHub !
 
 Je suis **Lucie**, passionnée de **Data Science** et d’**Intelligence Artificielle**, diplômée en ingénierie IA en 2025.  
-Après 10 ans d’enseignement des mathématiques et un diplôme d’ingénieure en mécanique & production industrielle, j’ai choisi de me reconvertir pour contribuer à des projets techniques à fort impact, en combinant analyse de données, machine learning et déploiement de solutions intelligentes.
+Après 10 ans d’enseignement des mathématiques et un diplôme d’ingénieure en mécanique & production industrielle, j’ai choisi de me reconvertir pour contribuer à des projets techniques, en combinant analyse de données, machine learning et déploiement de solutions intelligentes.
 
 En 2024, j’ai entamé une reconversion dans la data avec la formation d’**Ingénieur IA chez OpenClassrooms**, finalisée en avril 2025.  
 Je poursuis actuellement un cursus d’**approfondissement MLPro** (Machine Learnia) pour consolider mes compétences en **mathématiques, modélisation, MLOps** et ingénierie logicielle.
